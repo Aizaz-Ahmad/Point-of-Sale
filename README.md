@@ -7,7 +7,6 @@
 [![Point-of-sale-DEMO](https://adrotog-yt-embed.herokuapp.com/embed?v=AJ8ODYxvj_c)](https://youtu.be/AJ8ODYxvj_c)
 
 <h2>🧰 Technologies Used</h2>
-<hr />
 <ul>
     <li>Windows Presentation Foundation</li>
     <li>C#</li>
@@ -15,7 +14,6 @@
 </ul>
 
 <h2>Concepts Covered</h2>
-<hr />
 <ul>
     <li>User Controls</li>
     <li>Layouts, Grids</li>
@@ -25,7 +23,6 @@
 </ul>
 
 <h2>🧑‍💻 Devlopement Setup</h2>
-<hr />
 <ol style="list-style-position:inside; padding-left:0px;line-height:1.7;">
 <li> Clone this repository or simply download code <a href="https://github.com/Aizaz-Ahmad/Point-of-Sale/archive/refs/heads/master.zip">ZIP folder</a>. To clone this repo use the following command. 
 <br />
